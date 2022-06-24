@@ -1,6 +1,6 @@
 
 ## Heigh Converter using 
-- Html
+- HTML
 - CSS
 - JavaScrips
 
